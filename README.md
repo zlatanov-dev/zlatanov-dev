@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/zlatanov-dev=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zlatanov-dev&theme=dark&hide_border=true&border_radius=4.4)](https://git.io/streak-stats)
 <!---
 zlatanov-dev/zlatanov-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
