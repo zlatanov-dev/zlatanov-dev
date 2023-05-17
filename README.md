@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlatanov-dev&show_icons=true&theme=react&hide_border=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlatanov-dev&layout=compact&theme=react&hide_border=true)](https://github.com/zlatanov-dev/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zlatanov-dev&layout=compact&theme=react&hide_border=true)](https://github.com/zlatanov-dev/github-readme-stats)
 
 <!---
 zlatanov-dev/zlatanov-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
